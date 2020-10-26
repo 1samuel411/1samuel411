@@ -46,6 +46,7 @@ Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset stor
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2018/11/4-1.jpg" align="left" width="400px"/> 
@@ -64,6 +65,7 @@ Play three different sports all in one! Basketball, Hockey, and Soccer! Fully cu
 
 # Night Bear
 Night Bear is a 2D game that puts you in the shoes of a teddy bear with the one job of defending his child from the monster of the night.<br/>
+<br/>
 <br/>
 <br/>
 <br/>
