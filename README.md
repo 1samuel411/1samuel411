@@ -31,6 +31,7 @@ I interned at EA Sports in Orlando, FL for Summer 2019.
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/09/home.png" align="left" width="400px"/> 
