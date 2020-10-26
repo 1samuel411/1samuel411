@@ -36,7 +36,7 @@ I interned at EA Sports in Orlando, FL for Summer 2019.
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/09/home.png" align="left" width="400px"/> 
 
-# Game dev HQ Filebase
+# Gamedev HQ Filebase
 Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset store into Unity. Pro GameDevHQ members are able to download and manage their assets all from one place. 
 <br/>
 <br/>
