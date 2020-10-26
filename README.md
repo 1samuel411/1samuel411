@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity Editor’s Stages and Scenes](https://samuelarminana.com/index.php/2020/09/28/unity-editors-stages-and-scenes/)
+- [How to Integrate Trello and Discord](https://samuelarminana.com/index.php/2020/01/22/how-to-integrate-trello-and-discord/)
+- [Designing an Educational Game](https://samuelarminana.com/index.php/2019/11/12/designing-an-educational-game/)
+- [Releasing your Buggy Code to the Wild](https://samuelarminana.com/index.php/2019/07/18/releasing-your-buggy-code-to-the-wild/)
+- [Beginning a New Project With a Team RIGHT](https://samuelarminana.com/index.php/2019/07/06/beginning-a-new-project-with-a-team-right/)
 <!-- BLOG-POST-LIST:END -->
