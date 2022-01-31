@@ -21,6 +21,35 @@ View more on my [website](https://samuelarminana.com/index.php/blog/)
 ---
 ### 💾 My projects
 
+
+
+<img src="http://samuelarminana.com/u/118ea36a1-2c07-46c8-8e3d-f8a49e0da4a8.png" align="left" width="400px"/> 
+
+# Boddle
+Boddle is an interactive 3D math game that gets kids excited and motivated to learn and practice math! 
+<br/>
+<br/>
+I am currently working here as a Senior Unity Developer.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<img src="https://samuelarminana.com/wp-content/uploads/2021/03/Walking.jpg" align="left" width="400px"/> 
+
+# LoK: Rebirth
+LoK:Rebirth is an action KOTOR-esque RPG being created by The Tribe.
+<br/>
+<br/>
+Development Lead and Software Engineer for nearly 2 years during 2019-2021.
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
 
 # Madden 20
@@ -31,14 +60,12 @@ I interned at EA Sports in Orlando, FL for Summer 2019.
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/09/home.png" align="left" width="400px"/> 
 
 # Gamedev HQ Filebase
 Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset store into Unity. Pro GameDevHQ members are able to download and manage their assets all from one place. 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -66,7 +93,6 @@ Play three different sports all in one! Basketball, Hockey, and Soccer! Fully cu
 
 # Night Bear
 Night Bear is a 2D game that puts you in the shoes of a teddy bear with the one job of defending his child from the monster of the night.<br/>
-<br/>
 <br/>
 <br/>
 <br/>
