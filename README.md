@@ -4,7 +4,7 @@ I'm a software engineer who's main focus over the last 7 years involved using Un
 
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-512.png"/>Youtube](https://www.youtube.com/channel/UCQNi86EZ55UtBWjI0VCxuhw)
 
-[<img align="left" width="22px" src="http://samuelarminana.com/u/1bd327ce8-9a88-4b7e-b3f1-9bf38f6e2b94.png"/>Linkedin](https://www.linkedin.com/in/samuelarm/)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/samuelarm/)
 
 [<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://samuelarminana.com/)
 
