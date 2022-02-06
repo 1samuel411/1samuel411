@@ -35,6 +35,7 @@ I am currently working here as a Senior Unity Developer.
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2021/03/Walking.jpg" align="left" width="400px"/> 
@@ -48,6 +49,7 @@ Development Lead and Software Engineer for nearly 2 years during 2019-2021.
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
@@ -57,6 +59,7 @@ Madden 20 is a football sports game by EA Sports. Madden has won a number of awa
 <br/>
 <br/>
 I interned at EA Sports in Orlando, FL for Summer 2019.
+<br/>
 <br/>
 <br/>
 <br/>
