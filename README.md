@@ -44,7 +44,7 @@ I am currently working here as a Senior Unity Developer.
 LoK:Rebirth is an action KOTOR-esque RPG being created by The Tribe.
 <br/>
 <br/>
-Development Lead and Software Engineer for nearly 2 years during 2019-2021.
+Development Lead and Sole Software Engineer for nearly 2 years during 2019-2021.
 <br/>
 <br/>
 <br/>
