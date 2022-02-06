@@ -49,7 +49,6 @@ Development Lead and Software Engineer for nearly 2 years during 2019-2021.
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
@@ -85,7 +84,6 @@ Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset stor
 
 # Junior League Sports
 Play three different sports all in one! Basketball, Hockey, and Soccer! Fully customizable teams and challenging enemies. Play with up to 2 players.
-<br/>
 <br/>
 <br/>
 <br/>
