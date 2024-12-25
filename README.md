@@ -2,11 +2,11 @@
 
 Passionate and accomplished software engineer with a proven track record of delivering production ready gameplay and UI implementations across mobile, web, PC, and console platforms. Proficient in Unity and C#, expertise in C++, Java, and JS, and a deep understanding of game development pipelines and software engineering principles. Driven to tackle new challenges and collaborate with a team sharing the same values and passion for the craft of games.
 
-[<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-512.png"/>Watch me on Youtube](https://www.youtube.com/@samuelarminana)
+<img width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-512.png"/>&ensp;[Watch me on Youtube](https://www.youtube.com/@samuelarminana)
 <br>
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Connect on LinkedIn](https://www.linkedin.com/in/samuelarm/)
+<img width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>&ensp;[Connect on LinkedIn](https://www.linkedin.com/in/samuelarm/)
 <br>
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>View my Porfolio and Resume](https://samuelarminana.com/)
+<img width="22px" src="http://samuelarminana.com/favicon.ico"/>&ensp;[View my Porfolio and Resume](https://samuelarminana.com/)
 
 📝 Check out my latest blog posts,<br>
 &ensp;&ensp;&ensp;• [Unity Editor’s Stages and Scenes](https://samuelarminana.com/index.php/2020/09/28/unity-editors-stages-and-scenes/)<br>
