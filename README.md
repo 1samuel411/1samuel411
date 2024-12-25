@@ -40,6 +40,7 @@ Along with managing our tech stack and technical contracting. I also engaged wit
 
 <b>[Madden 20](https://www.ea.com/games/madden-nfl/madden-nfl-20)</b> | EA Sports<br>
 Date: August 2019 <i>(PC, Xbox, Playstation)</i>
+
 Madden 20 is a football sports game by EA Sports. Madden has won a number of awards at E3 including best sports game and best multiplayer game.
 <br/>
 <br/>
@@ -95,7 +96,8 @@ Date: September 2019 <i>(Android)</i>
 <b>[Cave Brawlers](https://store.steampowered.com/app/731500/Cave_Brawlers/)</b> | Independent<br>
 Date: September 2019 <i>(Steam)</i>
 
-Cave Brawlers is a 2d pixel action adventure game about a knight of a kingdom who has to rescue villagers from Cave Dwellers after a siege. Comedic story based game.<br/>
+2D pixel action adventure game about a knight of a kingdom who has to rescue villagers from Cave Dwellers after a siege. Comedic story based game.<br/>
+<br/>
 <br/>
 <br/>
 <br/>
