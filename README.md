@@ -15,21 +15,22 @@ Passionate and accomplished software engineer with a proven track record of deli
 &ensp;&ensp;&ensp;• View more on my [blog](https://samuelarminana.com/index.php/blog/)
 
 ---
-### 💾&ensp; My projects
+### 💾 &ensp;My projects
 [<img src="https://samuelarminana.com/wp-content/uploads/2022/01/14240a2fb-55b2-41d6-a273-708220777a39.png" align="left" width="400px"/> 
 ](https://boddlelearning.com/)
 
 <b>[Boddle](https://play.boddlelearning.com/)</b> | Boddle Learning<br>
 Date: Dec 2024 <i>(Web, Android, iOS)</i>
 
-3D educational experience revolutionizing education for 250,000+ classrooms across the U.S., engaging 2+ million monthly active learners. Offering educators real-time insights into student progression. Available on Web, Android, and iOS.
+3D educational experience revolutionizing education for 250,000+ classrooms across the U.S., engaging 2+ million monthly active learners. Offering educators real-time insights into student progression.
 
 As a Senior Unity Developer and founding member for 4 years, I played a keyrole, building a scalable game from 50,000 lifetime users to becoming one of the fastest-growing startups in 2024.
+<br><br>
 
 <img src="https://samuelarminana.com/wp-content/uploads/2021/03/Walking.jpg" align="left" width="400px"/> 
 
 <b>[LoK: Rebirth](https://thetribedevs.com/)</b> | The Tribe<br>
-Date: March 2021 <i>(PC, Mac, Linux)</i><br><br>
+Date: March 2021 <i>(PC, Mac, Linux)</i>
 
 An action KOTOR-esque RPG being crafted by The Tribe, a group I joined as a Development Lead for 2 years. LoK first started in the early 2000’s as a flash game. I was responsible for creating our core game, editor tools, launcher, and documentation. 
 
@@ -37,7 +38,8 @@ Along with managing our tech stack and technical contracting. I also engaged wit
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
 
-# Madden 20
+<b>[Madden 20](https://www.ea.com/games/madden-nfl/madden-nfl-20)</b> | EA Sports<br>
+Date: August 2019 <i>(PC, Xbox, Playstation)</i>
 Madden 20 is a football sports game by EA Sports. Madden has won a number of awards at E3 including best sports game and best multiplayer game.
 <br/>
 <br/>
@@ -50,14 +52,12 @@ I interned at EA Sports in Orlando, FL for Summer 2019.
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/09/home.png" align="left" width="400px"/> 
 
-# Gamedev HQ Filebase
-Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset store into Unity. Pro GameDevHQ members are able to download and manage their assets all from one place. 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<b>[Filebase](https://gamedevhq.com/filebase/)</b> | gamedev:hq<br>
+Date: August 2019 <i>(Unity Editor Extension)</i>
+
+Integrate's gamedev:hq's asset store into Unity, allowing subscriber to download and manage their Filebase assets all from one place. Provides a remote interface for control over advertising and marketing.
+
+The extension is nearly a remake of Unity's actual asset store. You can login to your gamedev:hq account, query and filter through assets, explore a curated front page, download and update assets directly inside of unity. Features a self managed update system the plugin directly inside unity.
 <br/>
 <br/>
 <br/>
@@ -66,9 +66,10 @@ Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset stor
 
 <img src="https://samuelarminana.com/wp-content/uploads/2018/11/4-1.jpg" align="left" width="400px"/> 
 
-# Junior League Sports
-Play three different sports all in one! Basketball, Hockey, and Soccer! Fully customizable teams and challenging enemies. Play with up to 2 players.
-<br/>
+<b>[Junior League Sports](https://www.shop4megastore.com/nintendo-switch-games/junior-league-sports-collection-nintendo-switch-game)</b> | Rabid Racoon Games<br>
+Date: September 2019 <i>(Nintendo Switch)</i>
+
+A fun-filled sports compilation, including basketball, hockey, and soccer. I refined user experience, implemented UI functionality, and ensured seamless in-game mechanics for up to 2 players.
 <br/>
 <br/>
 <br/>
@@ -78,8 +79,10 @@ Play three different sports all in one! Basketball, Hockey, and Soccer! Fully cu
 
 <img src="https://samuelarminana.com/wp-content/uploads/2018/11/3.png" align="left" width="400px"/> 
 
-# Night Bear
-Night Bear is a 2D game that puts you in the shoes of a teddy bear with the one job of defending his child from the monster of the night.<br/>
+<b>[Night Bear](https://play.google.com/store/apps/details?id=com.blazewolf.beargame)</b> | Blaze Wolf<br>
+Date: September 2019 <i>(Android)</i>
+
+2D side scroller shooter, puts you in the shoes of a teddy bear with the sole job of defending his child from the terrors of the night.<br/>
 <br/>
 <br/>
 <br/>
@@ -89,7 +92,9 @@ Night Bear is a 2D game that puts you in the shoes of a teddy bear with the one 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2018/11/ss_205e2ce531240570866bf64c08f0f0ee4889d1dc.600x338.jpg" align="left" width="400px"/> 
 
-# Cave Brawlers
+<b>[Cave Brawlers](https://store.steampowered.com/app/731500/Cave_Brawlers/)</b> | Independent<br>
+Date: September 2019 <i>(Steam)</i>
+
 Cave Brawlers is a 2d pixel action adventure game about a knight of a kingdom who has to rescue villagers from Cave Dwellers after a siege. Comedic story based game.<br/>
 <br/>
 <br/>
